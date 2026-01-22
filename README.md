@@ -75,7 +75,7 @@ https://processing.org/download
 ### 2. Clone the Repository
 
 ```bash
-git clone https://codeberg.org/<your-username>/psycho-connect-dialogue-editor.git
+git clone https://github.com/Enrique-ZA/psycho-connect-dialogue-editor.git
 cd psycho-connect-dialogue-editor
 ```
 
