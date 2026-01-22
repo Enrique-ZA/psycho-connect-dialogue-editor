@@ -4,6 +4,10 @@
 
 ---
 
+![Dialogue Graph Overview](Editor-overview.png)
+
+---
+
 ## Overview
 
 **Psycho-Connect Dialogue Editor** is a free and open-source, node-based dialogue editor built in **Processing**. It is designed for narrative-heavy games, visual novels, RPGs, and experimental interactive fiction where dialogue structure, player intent, and NPC reaction matter as much as the text itself.
